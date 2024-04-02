@@ -7,3 +7,6 @@ Two players face off, playing one after the other, dropping one token in one col
 
 ## AI
 I tried implementing an AI but wasn't successful. It would either take too long or have mistakes.
+
+## Compiled version
+You can find the compiled files in the second branch.
